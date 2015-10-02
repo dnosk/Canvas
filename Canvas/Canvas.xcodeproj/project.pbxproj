@@ -97,9 +97,9 @@
 		33AF782A1BBD69B3008A3BD2 /* Canvas */ = {
 			isa = PBXGroup;
 			children = (
+				33AF782F1BBD69B3008A3BD2 /* Main.storyboard */,
 				33AF782B1BBD69B3008A3BD2 /* AppDelegate.swift */,
 				33AF782D1BBD69B3008A3BD2 /* ViewController.swift */,
-				33AF782F1BBD69B3008A3BD2 /* Main.storyboard */,
 				33AF78321BBD69B3008A3BD2 /* Assets.xcassets */,
 				33AF78341BBD69B3008A3BD2 /* LaunchScreen.storyboard */,
 				33AF78371BBD69B3008A3BD2 /* Info.plist */,
